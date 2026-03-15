@@ -26,31 +26,6 @@
 
 ---
 
-### 🧑‍💻 About Me
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" valign="top">
-        <h4>🚀 Current Focus</h4>
-        <ul>
-          <li>Mastering the curriculum at <b>42 Lyon</b>.</li>
-          <li>Developing in <b>C/C++</b> and <b>Fullstack JS</b>.</li>
-        </ul>
-      </td>
-      <td width="50%" valign="top">
-        <h4>🎯 Goals</h4>
-        <ul>
-          <li>Building efficient and scalable software.</li>
-          <li>Exploring <b>DevOps</b> and Cloud tech.</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 **Languages & Systems**
 
 ![C](https://img.shields.io/badge/C-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=black)
