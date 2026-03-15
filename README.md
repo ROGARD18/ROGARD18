@@ -133,28 +133,3 @@
 </p>
 
 ---
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" valign="top">
-        <h3>📚 Learning Path</h3>
-        <ul>
-          <li>Currently exploring <b>Rust</b> for high-performance systems.</li>
-          <li>Deepening <b>DevOps</b> knowledge with Docker & CI/CD.</li>
-          <li>Practicing <b>TypeScript</b> for safer web apps.</li>
-        </ul>
-      </td>
-      <td width="50%" valign="top">
-        <h3>⚡ Fun Facts</h3>
-        <ul>
-          <li>42 Student: 24/7 coding mindset.</li>
-          <li>Fan of <b>Clean Code</b> and optimized algorithms.</li>
-          <li>Coffee-to-code converter ☕.</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
