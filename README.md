@@ -1,34 +1,107 @@
-<h1 align="center">Salut, moi c'est Antoine Rogard 👋</h1>
-<h3 align="center">Développeur Passionné</h3>
-
-<p align="center">
-  <a href="https://twitter.com/TonTwitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://linkedin.com/in/TonLinkedIn" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
----
-
-🛠️ Ma Stack Technique
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
-
----
-
-📊 Mes Statistiques GitHub
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ROGARD18&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="Stats de ROGARD18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffe0,100:7b5cfa&height=220&section=header&text=Antoine%20Rogard&fontSize=72&fontAlignY=38&fontColor=ffffff&animation=fadeIn" width="100%"/>
+</div>
 
-  <br/><br/>
+<div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROGARD18&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ROGARD18&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&duration=3000&pause=800&color=00FFE0&center=true&vCenter=true&width=600&lines=Student+at+42+Lyon+◆;Full-Stack+%26+Software+Developer;Low-Level+Programming+(C+%2F+C%2B%2B);Always+coding+something+cool...)](https://git.io/typing-svg)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/antoinerogard)
+&nbsp;
+[![42 Lyon](https://img.shields.io/badge/42_Lyon-%23000000.svg?style=for-the-badge&logo=42&logoColor=white)](https://42lyon.fr)
+
+</div>
+
+---
+
+<div align="center">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ROGARD18/ROGARD18/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+---
+
+### 🧑‍💻 About Me
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" valign="top">
+        <h4>🚀 Current Focus</h4>
+        <ul>
+          <li>Mastering the curriculum at <b>42 Lyon</b>.</li>
+          <li>Developing in <b>C/C++</b> and <b>Fullstack JS</b>.</li>
+        </ul>
+      </td>
+      <td width="50%" valign="top">
+        <h4>🎯 Goals</h4>
+        <ul>
+          <li>Building efficient and scalable software.</li>
+          <li>Exploring <b>DevOps</b> and Cloud tech.</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 🎓 Mon Cursus 42
+
+| Projet | Description | Note | État |
+| :--- | :--- | :---: | :---: |
+| **Libft** | Bibliothèque C personnalisée | 125/100 | ✅ |
+| **ft_printf** | Réécriture complète de printf | 100/100 | ✅ |
+| **Get_Next_Line** | Lecture de fichier ligne par ligne | 112/100 | ✅ |
+| **Born2beroot** | Administration Système & Virtua. | 110/100 | ✅ |
+| **push_swap** | Algorithme de tri optimisé | 125/100 | ✅ |
+| **Python Module 00-04** | Bases, POO, Exceptions, I/O | 100/100 | ✅ |
+| **Python Module 05** | Classes abstraites | À venir | ⏳ |
+
+---
+
+### 🛠️ Stack Technique
+
+**Languages & Systems**
+
+![C](https://img.shields.io/badge/C-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+**Tools & Environment**
+
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+---
+
+### 📊 GitHub Statistics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ROGARD18&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&cache_seconds=1800" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROGARD18&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ROGARD18&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ROGARD18&theme=tokyo-night&hide_border=true&area=true&custom_title=Contributions%20Activity" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b5cfa,100:00ffe0&height=120&section=footer" width="100%"/>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=ROGARD18&color=00ffe0&style=flat-the-badge&label=PROFILE+VIEWS" alt="Profile Views Counter" />
 </div>
