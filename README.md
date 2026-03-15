@@ -81,6 +81,43 @@
 | **A_maze_ing** | Maze generation and pathfinding | In progress | ⏳ |
 
 ---
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ROGARD18&theme=tokyonight&no-bg=true&margin-w=15&column=4" alt="Trophies" />
+</p>
+
+---
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" valign="top">
+        <h3>📚 Learning Path</h3>
+        <ul>
+          <li>Currently exploring <b>Rust</b> for high-performance systems.</li>
+          <li>Deepening <b>DevOps</b> knowledge with Docker & CI/CD.</li>
+          <li>Practicing <b>TypeScript</b> for safer web apps.</li>
+        </ul>
+      </td>
+      <td width="50%" valign="top">
+        <h3>⚡ Fun Facts</h3>
+        <ul>
+          <li>42 Student: 24/7 coding mindset.</li>
+          <li>Fan of <b>Clean Code</b> and optimized algorithms.</li>
+          <li>Coffee-to-code converter ☕.</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 📫 Connect with me
+
+<p align="left">
+<a href="https://linkedin.com/in/antoinerogard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Antoine Rogard" height="30" width="40" /></a>
+<a href="mailto:arogard@student.42lyon.fr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="arogard" height="30" width="40" /></a>
+</p>
 ### 🛠️ Stack Technique
 
 **Languages & Systems**
