@@ -42,10 +42,6 @@
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ROGARD18&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</div>
-
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b5cfa,100:00ffe0&height=120&section=footer" width="100%"/>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=ROGARD18&color=00ffe0&style=flat-the-badge&label=PROFILE+VIEWS" alt="Profile Views Counter" />
@@ -77,10 +73,5 @@
 | **Python Module 09** | Data validation with Pydantic | 100/100 | ✅ |
 | **Python Module 10** | Lambda functions & Citizen classes | 100/100 | ✅ |
 | **A_maze_ing** | Maze generation and pathfinding | In progress | ⏳ |
-
----
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ROGARD18&theme=tokyonight&no-bg=true&margin-w=15&column=4" alt="Trophies" />
-</p>
 
 ---
