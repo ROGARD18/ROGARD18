@@ -52,19 +52,33 @@
 ---
 
 ### 🎓 Mon Cursus 42
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffe0,100:7b5cfa&height=60&section=header&text=My%2042%20Curriculum&fontSize=30&fontColor=ffffff&fontAlignY=50" alt="Titre Mon Cursus 42" />
+</p>
 
 | Projet | Description | Note | État |
 | :--- | :--- | :---: | :---: |
 | **Libft** | Bibliothèque C personnalisée | 125/100 | ✅ |
 | **ft_printf** | Réécriture complète de printf | 100/100 | ✅ |
 | **Get_Next_Line** | Lecture de fichier ligne par ligne | 112/100 | ✅ |
-| **Born2beroot** | Administration Système & Virtua. | 110/100 | ✅ |
-| **push_swap** | Algorithme de tri optimisé | 125/100 | ✅ |
-| **Python Module 00-04** | Bases, POO, Exceptions, I/O | 100/100 | ✅ |
-| **Python Module 05** | Classes abstraites | À venir | ⏳ |
+| **Born2beroot** | Administration Système & Virtualisation | 110/100 | ✅ |
+| **push_swap** | Algorithme de tri d'entiers optimisé | 125/100 | ✅ |
+| **Python Module 00** | Bases du langage et syntaxe | 100/100 | ✅ |
+| **Python Module 01** | Introduction à la POO | 100/100 | ✅ |
+| **Python Module 02** | Gestion des exceptions et erreurs | 100/100 | ✅ |
+| **Python Module 03** | Manipulation des collections | 100/100 | ✅ |
+| **Python Module 04** | Gestion des fichiers et I/O | 100/100 | ✅ |
+| **Python Module 05** | Classes abstraites et Polymorphisme | 100/100 | ✅ |
+| **Python Module 06** | Imports et structuration de modules | 100/100 | ✅ |
+| **Python Module 07** | Approfondissement des Abstract Methods | 100/100 | ✅ |
+| **Python Module 08** | Venv & Data Libs (Numpy, Matplotlib) | 100/100 | ✅ |
+| **Python Module 09** | Validation de données avec Pydantic | 100/100 | ✅ |
+| **Python Module 10** | Lambda functions & Citizen Classes | 100/100 | ✅ |
+| **A_maze_ing** | Génération et résolution de labyrinthes | En cours | ⏳ |
 
 ---
-
 ### 🛠️ Stack Technique
 
 **Languages & Systems**
